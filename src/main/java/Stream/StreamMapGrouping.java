@@ -51,7 +51,7 @@ public class StreamMapGrouping
 
             for (Student currentStudent : studentsForAge)
             {
-                System.out.println(currentStudent.name);
+                System.out.println(currentStudent.getName());
             }
 
             System.out.println();
