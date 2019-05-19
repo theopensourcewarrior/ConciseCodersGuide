@@ -1,4 +1,4 @@
-package FileDemo;
+package FileDemo.ReadAllLines;
 
 import java.io.File;
 import java.io.IOException;
